@@ -48,4 +48,7 @@ func main() {
 		}
 	}
 
+	// I/O
+	scanner := bufio
+
 }
